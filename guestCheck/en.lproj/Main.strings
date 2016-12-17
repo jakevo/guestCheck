@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "Pre-tax"; ObjectID = "2x2-WJ-H3B"; */
+"2x2-WJ-H3B.normalTitle" = "Pre-tax";
+
+/* Class = "UIButton"; normalTitle = "12/15/2016"; ObjectID = "6A1-II-tm6"; */
+"6A1-II-tm6.normalTitle" = "12/15/2016";
+
+/* Class = "UILabel"; text = "Bill Amount:"; ObjectID = "Cil-pF-9yj"; */
+"Cil-pF-9yj.text" = "Bill Amount:";
+
+/* Class = "UILabel"; text = "Total Bill:"; ObjectID = "DGi-6X-BfE"; */
+"DGi-6X-BfE.text" = "Total Bill:";
+
+/* Class = "UILabel"; text = "Guest Check"; ObjectID = "Djc-IN-n7u"; */
+"Djc-IN-n7u.text" = "Guest Check";
+
+/* Class = "UIButton"; normalTitle = "Date"; ObjectID = "FyK-mI-ba5"; */
+"FyK-mI-ba5.normalTitle" = "Date";
+
+/* Class = "UILabel"; text = "Tip Amount:"; ObjectID = "QIa-RQ-g9u"; */
+"QIa-RQ-g9u.text" = "Tip Amount:";
+
+/* Class = "UIButton"; normalTitle = "Tax Rate"; ObjectID = "bf1-vR-HS3"; */
+"bf1-vR-HS3.normalTitle" = "Tax Rate";
+
+/* Class = "UILabel"; text = "Split:"; ObjectID = "gxb-cl-JIc"; */
+"gxb-cl-JIc.text" = "Split:";
+
+/* Class = "UILabel"; text = "Total per Person:"; ObjectID = "rXT-lA-zVx"; */
+"rXT-lA-zVx.text" = "Total per Person:";

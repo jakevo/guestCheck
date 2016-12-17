@@ -1,29 +1,29 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *GuestCheck*
 
-**Name of your app** is a tip calculator application for iOS.
+**GuestCheck** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Jake Vo**
 
-Time spent: **X** hours spent in total
+Time spent: **24** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
-* [ ] UI animations
+* [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough 
+## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
@@ -34,10 +34,22 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Couple of challenges that I have encountered during working on the app. First I
+had to update the total amount constantly everytime the split, the sub total and
+the tip percentages got changed. The first 2, sub total and split are easy
+because I can follow the tutorial video. However, for the tip percentages,
+it was updated from a different viewController so I have spent a lot of time
+to do research online and eventually I found out that I could implement delegate
+to solve that problem. Second, couple of syntax bugs that took me a lot of times
+to fix too because I was new to iOS and Swift. For example, I forgot to unwrap
+variable everytime I set a value into it, keeping putting semi colon at the end
+of every single line of code. Moving things around and forget to disconnect old
+stuffs or connect new stuffs to viewControllers which was causing a lot of
+runtime errors and took me a lot time to figure out to fix them.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Jake Vo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

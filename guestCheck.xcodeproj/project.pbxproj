@@ -14,6 +14,24 @@
 		6EA5347E1E03707000D1EEEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EA5347C1E03707000D1EEEA /* LaunchScreen.storyboard */; };
 		6EA534891E03707000D1EEEA /* guestCheckTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EA534881E03707000D1EEEA /* guestCheckTests.swift */; };
 		6EA534941E03707000D1EEEA /* guestCheckUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EA534931E03707000D1EEEA /* guestCheckUITests.swift */; };
+		6EA534CB1E03F0C000D1EEEA /* SettingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EA534CA1E03F0C000D1EEEA /* SettingController.swift */; };
+		6EA534DD1E04900A00D1EEEA /* amex_copyrighted-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534CC1E04900A00D1EEEA /* amex_copyrighted-50.png */; };
+		6EA534DE1E04900A00D1EEEA /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534CD1E04900A00D1EEEA /* back.png */; };
+		6EA534DF1E04900A00D1EEEA /* big_fork_filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534CE1E04900A00D1EEEA /* big_fork_filled-50.png */; };
+		6EA534E01E04900A00D1EEEA /* burger_dip_filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534CF1E04900A00D1EEEA /* burger_dip_filled-50.png */; };
+		6EA534E11E04900A00D1EEEA /* cafe_filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D01E04900A00D1EEEA /* cafe_filled-50.png */; };
+		6EA534E21E04900A00D1EEEA /* champagne_filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D11E04900A00D1EEEA /* champagne_filled-50.png */; };
+		6EA534E31E04900A00D1EEEA /* discover-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D21E04900A00D1EEEA /* discover-50.png */; };
+		6EA534E41E04900A00D1EEEA /* mastercard_copyrighted_filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D31E04900A00D1EEEA /* mastercard_copyrighted_filled-50.png */; };
+		6EA534E51E04900A00D1EEEA /* paypal-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D41E04900A00D1EEEA /* paypal-50.png */; };
+		6EA534E61E04900A00D1EEEA /* setting icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D51E04900A00D1EEEA /* setting icon.png */; };
+		6EA534E71E04900A00D1EEEA /* settings_3-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D61E04900A00D1EEEA /* settings_3-50.png */; };
+		6EA534E81E04900A00D1EEEA /* spoon_filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D71E04900A00D1EEEA /* spoon_filled-50.png */; };
+		6EA534E91E04900A00D1EEEA /* steak_very_hot_filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D81E04900A00D1EEEA /* steak_very_hot_filled-50.png */; };
+		6EA534EA1E04900A00D1EEEA /* tax-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534D91E04900A00D1EEEA /* tax-50.png */; };
+		6EA534EB1E04900A00D1EEEA /* visa_copyrighted-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534DA1E04900A00D1EEEA /* visa_copyrighted-50.png */; };
+		6EA534EC1E04900A00D1EEEA /* wrench-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534DB1E04900A00D1EEEA /* wrench-50.png */; };
+		6EA534ED1E04900A00D1EEEA /* zluev.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534DC1E04900A00D1EEEA /* zluev.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +65,25 @@
 		6EA5348F1E03707000D1EEEA /* guestCheckUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = guestCheckUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EA534931E03707000D1EEEA /* guestCheckUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = guestCheckUITests.swift; sourceTree = "<group>"; };
 		6EA534951E03707000D1EEEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6EA534A21E037E9A00D1EEEA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		6EA534CA1E03F0C000D1EEEA /* SettingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingController.swift; sourceTree = "<group>"; };
+		6EA534CC1E04900A00D1EEEA /* amex_copyrighted-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "amex_copyrighted-50.png"; path = "images/amex_copyrighted-50.png"; sourceTree = "<group>"; };
+		6EA534CD1E04900A00D1EEEA /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back.png; path = images/back.png; sourceTree = "<group>"; };
+		6EA534CE1E04900A00D1EEEA /* big_fork_filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "big_fork_filled-50.png"; path = "images/big_fork_filled-50.png"; sourceTree = "<group>"; };
+		6EA534CF1E04900A00D1EEEA /* burger_dip_filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "burger_dip_filled-50.png"; path = "images/burger_dip_filled-50.png"; sourceTree = "<group>"; };
+		6EA534D01E04900A00D1EEEA /* cafe_filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "cafe_filled-50.png"; path = "images/cafe_filled-50.png"; sourceTree = "<group>"; };
+		6EA534D11E04900A00D1EEEA /* champagne_filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "champagne_filled-50.png"; path = "images/champagne_filled-50.png"; sourceTree = "<group>"; };
+		6EA534D21E04900A00D1EEEA /* discover-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "discover-50.png"; path = "images/discover-50.png"; sourceTree = "<group>"; };
+		6EA534D31E04900A00D1EEEA /* mastercard_copyrighted_filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mastercard_copyrighted_filled-50.png"; path = "images/mastercard_copyrighted_filled-50.png"; sourceTree = "<group>"; };
+		6EA534D41E04900A00D1EEEA /* paypal-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "paypal-50.png"; path = "images/paypal-50.png"; sourceTree = "<group>"; };
+		6EA534D51E04900A00D1EEEA /* setting icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "setting icon.png"; path = "images/setting icon.png"; sourceTree = "<group>"; };
+		6EA534D61E04900A00D1EEEA /* settings_3-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "settings_3-50.png"; path = "images/settings_3-50.png"; sourceTree = "<group>"; };
+		6EA534D71E04900A00D1EEEA /* spoon_filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "spoon_filled-50.png"; path = "images/spoon_filled-50.png"; sourceTree = "<group>"; };
+		6EA534D81E04900A00D1EEEA /* steak_very_hot_filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "steak_very_hot_filled-50.png"; path = "images/steak_very_hot_filled-50.png"; sourceTree = "<group>"; };
+		6EA534D91E04900A00D1EEEA /* tax-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "tax-50.png"; path = "images/tax-50.png"; sourceTree = "<group>"; };
+		6EA534DA1E04900A00D1EEEA /* visa_copyrighted-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "visa_copyrighted-50.png"; path = "images/visa_copyrighted-50.png"; sourceTree = "<group>"; };
+		6EA534DB1E04900A00D1EEEA /* wrench-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "wrench-50.png"; path = "images/wrench-50.png"; sourceTree = "<group>"; };
+		6EA534DC1E04900A00D1EEEA /* zluev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = zluev.png; path = images/zluev.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +134,14 @@
 		6EA534721E03707000D1EEEA /* guestCheck */ = {
 			isa = PBXGroup;
 			children = (
+				6EA534AB1E0384CE00D1EEEA /* images */,
 				6EA534731E03707000D1EEEA /* AppDelegate.swift */,
 				6EA534751E03707000D1EEEA /* ViewController.swift */,
 				6EA534771E03707000D1EEEA /* Main.storyboard */,
 				6EA5347A1E03707000D1EEEA /* Assets.xcassets */,
 				6EA5347C1E03707000D1EEEA /* LaunchScreen.storyboard */,
 				6EA5347F1E03707000D1EEEA /* Info.plist */,
+				6EA534CA1E03F0C000D1EEEA /* SettingController.swift */,
 			);
 			path = guestCheck;
 			sourceTree = "<group>";
@@ -123,6 +162,30 @@
 				6EA534951E03707000D1EEEA /* Info.plist */,
 			);
 			path = guestCheckUITests;
+			sourceTree = "<group>";
+		};
+		6EA534AB1E0384CE00D1EEEA /* images */ = {
+			isa = PBXGroup;
+			children = (
+				6EA534CC1E04900A00D1EEEA /* amex_copyrighted-50.png */,
+				6EA534CD1E04900A00D1EEEA /* back.png */,
+				6EA534CE1E04900A00D1EEEA /* big_fork_filled-50.png */,
+				6EA534CF1E04900A00D1EEEA /* burger_dip_filled-50.png */,
+				6EA534D01E04900A00D1EEEA /* cafe_filled-50.png */,
+				6EA534D11E04900A00D1EEEA /* champagne_filled-50.png */,
+				6EA534D21E04900A00D1EEEA /* discover-50.png */,
+				6EA534D31E04900A00D1EEEA /* mastercard_copyrighted_filled-50.png */,
+				6EA534D41E04900A00D1EEEA /* paypal-50.png */,
+				6EA534D51E04900A00D1EEEA /* setting icon.png */,
+				6EA534D61E04900A00D1EEEA /* settings_3-50.png */,
+				6EA534D71E04900A00D1EEEA /* spoon_filled-50.png */,
+				6EA534D81E04900A00D1EEEA /* steak_very_hot_filled-50.png */,
+				6EA534D91E04900A00D1EEEA /* tax-50.png */,
+				6EA534DA1E04900A00D1EEEA /* visa_copyrighted-50.png */,
+				6EA534DB1E04900A00D1EEEA /* wrench-50.png */,
+				6EA534DC1E04900A00D1EEEA /* zluev.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +298,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6EA534E31E04900A00D1EEEA /* discover-50.png in Resources */,
+				6EA534ED1E04900A00D1EEEA /* zluev.png in Resources */,
 				6EA5347E1E03707000D1EEEA /* LaunchScreen.storyboard in Resources */,
+				6EA534DE1E04900A00D1EEEA /* back.png in Resources */,
+				6EA534E51E04900A00D1EEEA /* paypal-50.png in Resources */,
+				6EA534E11E04900A00D1EEEA /* cafe_filled-50.png in Resources */,
 				6EA5347B1E03707000D1EEEA /* Assets.xcassets in Resources */,
+				6EA534E41E04900A00D1EEEA /* mastercard_copyrighted_filled-50.png in Resources */,
+				6EA534E81E04900A00D1EEEA /* spoon_filled-50.png in Resources */,
+				6EA534E61E04900A00D1EEEA /* setting icon.png in Resources */,
+				6EA534DF1E04900A00D1EEEA /* big_fork_filled-50.png in Resources */,
 				6EA534791E03707000D1EEEA /* Main.storyboard in Resources */,
+				6EA534EA1E04900A00D1EEEA /* tax-50.png in Resources */,
+				6EA534E91E04900A00D1EEEA /* steak_very_hot_filled-50.png in Resources */,
+				6EA534E21E04900A00D1EEEA /* champagne_filled-50.png in Resources */,
+				6EA534EB1E04900A00D1EEEA /* visa_copyrighted-50.png in Resources */,
+				6EA534EC1E04900A00D1EEEA /* wrench-50.png in Resources */,
+				6EA534DD1E04900A00D1EEEA /* amex_copyrighted-50.png in Resources */,
+				6EA534E01E04900A00D1EEEA /* burger_dip_filled-50.png in Resources */,
+				6EA534E71E04900A00D1EEEA /* settings_3-50.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,6 +342,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6EA534CB1E03F0C000D1EEEA /* SettingController.swift in Sources */,
 				6EA534761E03707000D1EEEA /* ViewController.swift in Sources */,
 				6EA534741E03707000D1EEEA /* AppDelegate.swift in Sources */,
 			);
@@ -303,6 +384,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				6EA534781E03707000D1EEEA /* Base */,
+				6EA534A21E037E9A00D1EEEA /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -512,6 +594,7 @@
 				6EA5349A1E03707000D1EEEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6EA5349B1E03707000D1EEEA /* Build configuration list for PBXNativeTarget "guestCheckTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +603,7 @@
 				6EA5349D1E03707000D1EEEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6EA5349E1E03707000D1EEEA /* Build configuration list for PBXNativeTarget "guestCheckUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +612,7 @@
 				6EA534A01E03707000D1EEEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

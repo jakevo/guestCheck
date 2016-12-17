@@ -36,6 +36,7 @@ class ViewController: UIViewController, DataEnterDelegate {
     }
     
     override func viewDidLoad() {
+        subBill.becomeFirstResponder()
         super.viewDidLoad()
         
         tipPercent.isUserInteractionEnabled = false

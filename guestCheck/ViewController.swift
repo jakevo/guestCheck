@@ -61,17 +61,7 @@ class ViewController: UIViewController, DataEnterDelegate {
     }
     
     @IBAction func tipChange(_ sender: Any) {
-        let tipPercentage = Double (tipPercent.text!)
-        
-        let subTotal = Double (subBill.text!) ?? 0
-        
-        let tip = ((tipPercentage!)/100) * subTotal
-        
-        let share = Double(splitNum.text!) ?? 1
-        
-        totalBill.text = String (format: "$%.2f", tip + subTotal)
-        tipAmt.text = String (format: "$%.2f", tip)
-        eachPay.text = String (format: "$%.2f", (subTotal + tip)/share)
+        helper()
     }
     
     @IBAction func onTap(_ sender: Any) {

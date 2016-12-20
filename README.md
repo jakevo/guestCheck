@@ -17,18 +17,18 @@ The following **optional** features are implemented:
 * [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user do not have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
-* Better UI with the real guest check temple
+* Better UI with the real guest check template
 * All fields get updated constantly with any changes that user makes
 * Custom navigation bar
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here is a walkthrough of implemented user stories:
 
 <a href="http://imgur.com/t4kG9x4"><img src="http://i.imgur.com/t4kG9x4.gif" title="source: imgur.com" /></a>
 
